@@ -1,3 +1,12 @@
+--[[ 
+
+getgenv().webhook = 'URL' -- Put your Webhook URL here
+getgenv().kickmsg = '<@USERID>' -- ping yourself here!
+getgenv().fps = '20' -- Locks your FPS to the set amount to reduce CPU Usage!
+getgenv().rendering = 'false' -- true/false / disables or enables your 3drendering, if false -> screen goes white, it also reduces cpu usage
+
+--]]
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
